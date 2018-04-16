@@ -1,0 +1,14 @@
+{
+    "language": {
+        "javascript": {
+            "linting.prefer": "JSHint",
+            "linting.usePreferredOnly": true
+        }
+    },
+
+    "interactive-linter.javascript": [
+        "jshint",
+        "jscs"
+    ]
+
+}

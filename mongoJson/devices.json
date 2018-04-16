@@ -1,0 +1,16 @@
+[
+    {
+        "type": "temperature",
+        "name": "temperature sensor",
+        "description": "a temperature sensor",
+        "unit": "Celsius",
+        "value": 0
+    },
+    {
+        "type": "humidity",
+        "name": "Humidity Sensor",
+        "description": "A humidity sensor",
+        "unit": "%",
+        "value": 0
+    }
+]
